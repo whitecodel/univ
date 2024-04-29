@@ -543,4 +543,4 @@ class slider extends StatelessWidget {
   }
 }
 
-const Color primaryColor = Color(0xFF008080);
+const Color primaryColor = const Color.fromRGBO(26, 188, 156, 70);
